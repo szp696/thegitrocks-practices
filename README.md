@@ -1,1 +1,1 @@
-# thegitrocks-practices
+# The git is actually rocking
